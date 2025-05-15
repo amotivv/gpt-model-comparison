@@ -1,3 +1,8 @@
+---
+layout: default
+title: false
+---
+
 # OpenAI Models Comparison Chart (May 2025)
 
 ## Flagship Chat Models
