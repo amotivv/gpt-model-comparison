@@ -46,3 +46,22 @@ This repository is intended for informational purposes only. All model informati
 ## Updates
 
 The comparison was last updated in May 2025. As OpenAI frequently updates their models and pricing, please verify the latest information on [OpenAI's official website](https://openai.com/).
+
+## MCP Server
+
+This repository also includes a Model Context Protocol (MCP) server that provides programmatic access to GPT model comparison data. The server enables LLMs and applications to:
+
+- Get recommendations for the optimal GPT model based on specific task requirements
+- Estimate token usage and costs across different models for any prompt
+- Access detailed information about model capabilities and limitations
+- Compare multiple models side-by-side on various dimensions
+
+The MCP server offers these tools:
+
+- `get_optimal_model`: Recommend the optimal GPT model based on task requirements
+- `estimate_text_cost`: Analyze text to estimate costs across models
+- `get_model_details`: Get comprehensive information about a specific model
+- `compare_models`: Compare multiple models side-by-side
+- `list_models`: Get a complete list of available models with optional categorization
+
+To use the MCP server, see the [documentation in the MCP folder](./gpt-model-comparison-mcp/).
