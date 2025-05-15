@@ -27,7 +27,7 @@ For each model, the comparison includes:
 
 This repository serves as a reference for developers, researchers, and organizations looking to choose the right GPT model for their specific needs. The GitHub Pages site provides an easily accessible way to view and compare the different models.
 
-Visit the live site: [GPT Model Comparison](https://jason.github.io/gpt-model-comparison/)
+Visit the live site: [GPT Model Comparison](https://amotivv.github.io/gpt-model-comparison/)
 
 ## Contributing
 
